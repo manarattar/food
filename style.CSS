@@ -1,0 +1,45 @@
+body { background-color: #DEB887;
+
+
+
+}
+ h1 {
+ 		text-align: center;
+        color: #800000;
+ }
+
+
+ .radio { text-align: center;}
+ 
+
+div{
+	    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 130px;
+    border: 10px outset #40E0D0;
+    padding: 50px 30px 50px 80px;
+    background-color: #FFFFF0;
+}
+
+
+img {
+	display: block;
+    margin: auto;
+    max-width: 40%;
+    max-height: 50%
+
+    }
+h3 {
+
+	text-align: center;
+      }
+ h4 { 
+  text-align: center; 
+
+	}
+#show-data {
+
+  display: none;
+
+}
